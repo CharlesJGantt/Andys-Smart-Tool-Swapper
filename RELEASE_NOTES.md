@@ -1,7 +1,7 @@
-# Andy's Smart Tool Swapper 0.2.2
+# Andy's Smart Tool Swapper 0.2.3
 
-A fix for menus that showed no current values.
+Final artwork.
 
-- **Fixed: every setting's current value rendered as blank space.** The value sat on a second line in light grey, and Bedrock draws form buttons on a light grey plate, so it was invisible. Buttons were two rows tall with an empty second row, which looked like a layout fault rather than a colour one. Secondary button text is now dark grey and reads clearly.
-- The Back and Close buttons were affected the same way and are now legible.
-- Nothing behavioural changed. Values were always stored and applied correctly; they simply could not be read.
+- Both packs now carry the final pack icon, so the add-on is recognisable in the world-settings list.
+- The storefront, wiki and CurseForge listing lead with the finished hero image.
+- No gameplay change of any kind. Nothing to reconfigure, and no setting, mark or registered tool is affected.

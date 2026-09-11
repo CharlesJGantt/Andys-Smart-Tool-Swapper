@@ -2,6 +2,8 @@
 
 **Not just the right tool — the right tool for the drop you want.**
 
+![Andy's Smart Tool Swapper](Andys-Smart-Tool-Swapper-Hero-16x9-FINAL.png)
+
 Intelligent automatic tool switching for Minecraft Bedrock. Start breaking a block and the tool that suits it comes to hand. Stop, and whatever you were holding comes straight back.
 
 ---

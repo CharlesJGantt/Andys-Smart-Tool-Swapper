@@ -399,12 +399,44 @@ Please include your Bedrock version and platform, the add-on version, whether yo
 
 ---
 
-## License
+## Keep Exploring with Andy
 
-All rights reserved. See [LICENSE.md](LICENSE.md).
+If Andy's Smart Tool Swapper saves you a hotbar fumble every few seconds—or simply hands you the right drop for once—come explore what else Andy is building. Visit [AndyTheMakerMC.xyz](https://andythemakermc.xyz/) for more Minecraft Bedrock add-ons, `.mcstructure` downloads, HoloPrint files, world lore, tutorials, guides, videos, and other creations.
 
-You may download an official, unmodified release and use it in your own worlds, Realms and servers. You may not redistribute it, bundle it, mirror it, or include it in a world download or modpack.
+## Join the AndyTheMakerMC Community
 
-Content creators may showcase official, unmodified releases in original videos, streams and articles, including monetized content. Credit to **AndyTheMakerMC** and a link to the project page are appreciated.
+Follow **@AndyTheMakerMC** for new add-on releases, development updates, tutorials, showcases, streams, and more Minecraft adventures:
+
+- [YouTube](https://www.youtube.com/@AndyTheMakerMC)
+- [Twitch](https://twitch.tv/AndyTheMakerMC)
+- [X](https://x.com/AndyTheMakerMC)
+- [TikTok](https://www.tiktok.com/@AndyTheMakerMC)
+- [Instagram](https://www.instagram.com/AndyTheMakerMC)
+
+## Help Bring More Add-ons to Life
+
+Enjoying the add-on? Ratings, favorites, recommendations, and kind comments all help more Bedrock players discover Andy's work. If you would also like to support future add-ons, guides, videos, and other AndyTheMakerMC projects, you can contribute through [Ko-fi](https://ko-fi.com/andythemaker) or make a [direct Stripe contribution](https://buy.stripe.com/4gM4gz0qu0xwgxw0IfcMM00). Every bit of support is appreciated, but it is never required.
+
+## End-user permission
+
+You may download the official, unmodified release of Andy's Smart Tool Swapper from its official CurseForge or authorized GitHub project page and install, activate, and use it in personal single-player worlds, multiplayer worlds, Realms, and compatible Bedrock servers.
+
+This permission includes Minecraft's normal automatic delivery of the official, unmodified add-on to players joining a world, Realm, or server where it is active. It does not permit offering the add-on file separately or distributing it as part of a world download, modpack, bundle, mirror, archive, or server download.
+
+## Content-creator permission
+
+Content creators may use an official, unmodified release of Andy's Smart Tool Swapper in original gameplay videos, livestreams, screenshots, tutorials, reviews, showcases, articles, guides, social posts, and other original content, including monetized content.
+
+Credit to **AndyTheMakerMC** and a link to the official CurseForge project page are appreciated whenever practical. This permission covers display of normal gameplay and commentary; it does not grant permission to redistribute, modify, extract, or republish the add-on or its assets.
+
+## License — All Rights Reserved
+
+**All Rights Reserved. Copyright © 2026 Andy / AndyTheMakerMC.**
+
+You may not redistribute, reupload, rehost, mirror, resell, sublicense, bundle, repackage, modify and publish, translate, adapt, decompile, disassemble, reverse engineer, extract, or reuse the add-on, its source code, scripts, documentation, branding, textures, models, pack icons, or promotional artwork without prior written permission from the copyright holder.
+
+You may not create derivative works or incorporate any portion of the project into another add-on, Behavior Pack, Resource Pack, application, product, modpack, download, or project without prior written permission. The end-user and content-creator permissions above are limited permissions; they do not transfer ownership or grant redistribution rights.
+
+The promotional artwork is original AI-assisted concept artwork directed for this project. It is not an in-game screenshot.
 
 Minecraft is a trademark of Microsoft Corporation. This project is not affiliated with, endorsed by, sponsored by, or associated with Microsoft or Mojang Studios.

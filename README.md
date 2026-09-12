@@ -122,7 +122,7 @@ Follow **@AndyTheMakerMC** for new add-on releases, development updates, tutoria
 - [Twitch](https://www.twitch.tv/AndyTheMakerMC)
 - [TikTok](https://www.tiktok.com/@AndyTheMakerMC)
 - [Instagram](https://www.instagram.com/andythemakermc/)
-- [X](https://x.com/AndyTheMakerMC)
+- [X (Twitter)](https://x.com/AndyTheMakerMC)
 - [Discord](https://discord.gg/KVFNHf67Y)
 - [Facebook Group](https://www.facebook.com/groups/1728623358327048)
 
